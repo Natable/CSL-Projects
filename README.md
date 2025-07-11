@@ -1,2 +1,2 @@
 # CSL-Projects
-My computer lab projects during my freshman year
+College Computer Lab Projects
